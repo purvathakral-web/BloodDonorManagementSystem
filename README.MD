@@ -5,9 +5,9 @@ A console-based Blood Donor Management System developed using Java.
 
 ## Team Members
 - Member 1: Purva
-- Member 2: Member 2
-- Member 3: Member 3
-- Member 4: Member 4
+- Member 2: Abhiraj
+- Member 3: Bhavya
+- Member 4: Dasham
 
 ## Technologies
 - Java
